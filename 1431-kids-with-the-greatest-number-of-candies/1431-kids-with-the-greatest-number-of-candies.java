@@ -21,3 +21,6 @@ class Solution {
  
     }
 }
+// maxium candies in the array is found and saved in max variable
+// in the  second for loop extraCandie is add with each element in the array and compared if it is => max  
+//  and accordingly true or false is set to that particular index
